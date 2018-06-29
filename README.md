@@ -26,7 +26,7 @@ $(function(){
 
 This is [on GitHub](https://github.com/jbt/markdown-editor) so let me know if I've b0rked it somewhere.
 
-### Stuff used to make this:
+### Stuff used to make this and this:
 
  * [markdown-it](https://github.com/markdown-it/markdown-it) for Markdown parsing
  * [CodeMirror](http://codemirror.net/) for the awesome syntax-highlighted editor
