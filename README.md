@@ -1,5 +1,5 @@
 # TestRepo1
-Test Repository for training purposes
+Test Repository for test purposes
 
 Basic useful feature list:
 
